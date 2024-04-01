@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/BrunosBurgues/app/src/androidTest">
+      <sourceFolder url="file://$MODULE_DIR$/BrunosBurgues/app/src/androidTest" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/BrunosBurgues/app/src/androidTest/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/BrunosBurgues/app/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/BrunosBurgues/app/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/BrunosBurgues/app/src/main" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/BrunosBurgues/app/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/BrunosBurgues/app/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/BrunosBurgues/app/src/test/java" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 34, extension level 10 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
